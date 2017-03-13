@@ -1,6 +1,1 @@
-# 3DP
-
-CURA Version:
-
-Version: 15.04.6  Release date: 6/7/16
-https://ultimaker.com/en/products/cura-software/list
+[Google Docs link to settings](https://docs.google.com/spreadsheets/d/17GlH7j11t9bs3rRCytbq1VpbKW6bTNVf2NNz8hLv11A/pubhtml)
