@@ -1,6 +1,4 @@
-# 3DP
+Settings used to print the below image are located here: [Google Docs link to settings](https://docs.google.com/spreadsheets/d/17GlH7j11t9bs3rRCytbq1VpbKW6bTNVf2NNz8hLv11A/pubhtml)
 
-CURA Version:
+Please add any comments to improve build quality.
 
-Version: 15.04.6  Release date: 6/7/16
-https://ultimaker.com/en/products/cura-software/list
